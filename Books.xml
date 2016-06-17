@@ -8,4 +8,8 @@
 		<title lang="en">South Indian Breakfast</title>
 		<price>20.00</price>
 	</book>	
+	<book category="CAT-3">
+		<title lang="en">North Indian Breakfast</title>
+		<price>100.00</price>
+	</book>	
 </bookstore>
