@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bookstore>
+
 	<book category="COOKING-ONE">
 		<title lang="en">Everyday Italian</title>
 		<price>30.00</price>
 	</book>	
+	
 	<book category="CAT-2">
 		<title lang="en">South Indian Breakfast</title>
 		<price>20.00</price>
 	</book>	
+	
 	<book category="CAT-3">
 		<title lang="en">North Indian Breakfast</title>
 		<price>100.00</price>
 	</book>	
-	<!-- Comment1 -->
-	<!-- Comment2 -->
-	<!-- Comment2 -->
-	<!-- Merged lines-->
+	
 </bookstore>
